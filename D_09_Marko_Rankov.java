@@ -63,5 +63,11 @@ public class D_09_Marko_Rankov {
     //8:25
     //git branch -d test1 -> brisanje grane "test1"
 
+    //git remote set-url origin https://github.com/MyRepo/project.git
+    //and then,
+    //
+    //git add .
+    //git commit -m "initial commit"
+    //git push origin master
 }
 
