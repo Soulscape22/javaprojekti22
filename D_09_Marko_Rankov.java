@@ -27,6 +27,7 @@ public class D_09_Marko_Rankov {
             System.out.println("Ova dva stringa su jednaka");
         }
 
+
         return duzinaReci;
     }
 
