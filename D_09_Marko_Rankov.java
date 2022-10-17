@@ -62,5 +62,6 @@ public class D_09_Marko_Rankov {
     //git merge "granaSaPromenama" -> spaja trenutnu granu na kojoj se nalazimo sa "granaSaPromenama"
     //8:25
     //git branch -d test1 -> brisanje grane "test1"
+
 }
 
