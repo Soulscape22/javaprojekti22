@@ -48,6 +48,19 @@ public class D_09_Marko_Rankov {
 
         return samoglasnik;
     }
-
+    //git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+    //git fetch upstream
+    //git merge upstream/master
+    //it init | git add "imefajla" | git commit -m "moja commit poruka" | git log | git checkout "commitId" | git checkout - (edited)
+    //
+    //
+    //Марко Станковић
+    //:dizzy:  8:23 PM
+    //git checkout -b "nova grana" -> pravi novu granu pod imenom "nova grana"
+    //git checkout "ime grane" -> vraca nas na tu granu
+    //git branch -> lista svih grana
+    //git merge "granaSaPromenama" -> spaja trenutnu granu na kojoj se nalazimo sa "granaSaPromenama"
+    //8:25
+    //git branch -d test1 -> brisanje grane "test1"
 }
 
