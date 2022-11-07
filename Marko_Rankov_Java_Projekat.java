@@ -1,4 +1,4 @@
-package com.itbootcamp.bgqa.java_projekat;
+package com.itbootcamp.bgqa.nedelja3;
 
 import java.util.Arrays;
 import java.util.Scanner;
